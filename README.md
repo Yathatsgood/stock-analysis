@@ -15,15 +15,23 @@ The new refactored code runs a lot more smoothly than the old code.-
 #### What are the advantages or disadvantages of refactoring code?
 
 ###### Advantages
+
 -Your code will run faster
+
 -Your code will be cleaner
+
 -You will have an easier time understanding what the code is doing
+
 -Bugs and issues are easier to find and fix in cleaner refactored code
 
 ###### Disadvantages
+
 -It can take a lot of time to refactor code
+
 -Can lead to breaking code when trying to trim
+
 -With bigger projects you will need a lot of dedicated time to refactor code
+
 -Though it can be nice to have refactored code, it is not always necessary
 
 #### How do these pros and cons apply to refactoring the original VBA script?
